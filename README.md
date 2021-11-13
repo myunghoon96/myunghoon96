@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myunghoon96
 - 👀 I’m interested in Backend.
-- 🌱 I’m currently learning Java, Spring.
+- 🌱 I’m currently learning Spring, JPA.
 - 📫 qkdlqkdl44@naver.com / qkdlqkdl44@gmail.com
 
 <!---
