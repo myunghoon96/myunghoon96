@@ -5,9 +5,7 @@
 - 솔직하게 소통하고 즐겁게 일하는 것을 좋아합니다.
 
 # ✉ Contact information
-
-- Phone | 010-2669-6494
-- Email | qkdlqkdl44@naver.com
+- Email  | qkdlqkdl44@naver.com
 - Github | [https://github.com/myunghoon96](https://github.com/myunghoon96)
 
 # 🚵🏻‍♂️ Career
