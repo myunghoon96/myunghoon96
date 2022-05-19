@@ -46,7 +46,7 @@
 - React, FastAPI, Redshift
 - Azure AD, Redis, Docker, AWS EC2
 - AWS Certificate Manager, Route 53, Application Balancer, Nginx
-- 스테이징 서버 구축, 대시보드 개발 및 배포
+- 개발 서버 구축, 대시보드 개발 및 배포
 - SSO 인증, 사용자 권한 확인
 - 테이블, 라인 차트, 파이 차트, 지도 차트 등 형식으로 데이터 시각화
 - 데이터베이스 연동 챗봇
