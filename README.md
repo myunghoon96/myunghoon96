@@ -1,16 +1,16 @@
 # 🙋🏻‍♂️About Me
 
-- 안녕하세요. 신입 백엔드 개발자 조명훈입니다.
+- 안녕하세요. 주니어 백엔드 개발자 조명훈입니다.
 - 끊임없이 성장하는 개발자가 되는 것이 목표입니다.
 - 소통하고 협업하는 것을 좋아합니다.
 
 # ✉ Contact information
-- Email  | 
-- Github | 
+- Email  | qkdlqkdl44@naver.com
+- Github | https://github.com/myunghoon96
 
 # 🚵🏻‍♂️ Career
 
-- F&F 프로세스팀 데이터파트   *(2022.01* ~    *)*
+- F&F 프로세스팀 데이터파트   *(2022.01* ~    *2022.05)*
 
 ---
 
