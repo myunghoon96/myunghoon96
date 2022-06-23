@@ -38,8 +38,8 @@
 
 ---
 
-# **🖥Projects**
-
+# **🖥Projects** 
+### https://github.com/myunghoon96/project-experience
 ## 🏢 Back Office Dashboard / Blog
 ![image](https://user-images.githubusercontent.com/69111087/167101145-a947af92-f9b0-463a-b3ef-b88fb02a2057.png)
 
@@ -57,8 +57,6 @@
 - 사진 드래그&드랍
 
 ## 🛒 Shopping Mall
-
-[https://github.com/myunghoon96/project-experience](https://github.com/myunghoon96/project-experience)
 
 - Java, Spring Boot, JPA
 - 회원가입, 로그인, 상품 등록, 상품관리, 주문, 검색, 장바구니 기능 구현
