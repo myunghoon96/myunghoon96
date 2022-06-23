@@ -4,9 +4,10 @@
 - 끊임없이 성장하는 개발자가 되는 것이 목표입니다.
 - 소통하고 협업하는 것을 좋아합니다.
 
-# ✉ Contact information
+# ✉ Information
 - Email  | qkdlqkdl44@naver.com
 - Github | https://github.com/myunghoon96
+- Project | https://github.com/myunghoon96/project-experience
 
 # 🚵🏻‍♂️ Career
 
