@@ -42,7 +42,7 @@
 
 ## 🏢 Back Office Dashboard / Blog
 ![image](https://user-images.githubusercontent.com/69111087/167101145-a947af92-f9b0-463a-b3ef-b88fb02a2057.png)
-- 1인 프로젝트
+
 - React, FastAPI, Redshift
 - Azure AD, Redis, Docker, AWS EC2
 - AWS Certificate Manager, Route 53, Application Balancer, Nginx
